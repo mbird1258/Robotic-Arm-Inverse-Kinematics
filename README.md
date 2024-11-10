@@ -1,10 +1,10 @@
 Robotic-Arm-Inverse-Kinematics
 ==============================
+<img width="400" alt="IMG_0333" src="https://github.com/user-attachments/assets/c1c4891e-bdc1-4a67-addd-e75461d12742">
+
 Geogebra demo: [https://www.geogebra.org/calculator/vapprkva](https://www.geogebra.org/calculator/vapprkva)
 
 Blog post: [https://matthew-bird.com/blogs/Robotic-Arm-Inverse-Kinematics.html](https://matthew-bird.com/blogs/Robotic-Arm-Inverse-Kinematics.html)
-
-<img width="400" alt="IMG_0333" src="https://github.com/user-attachments/assets/c1c4891e-bdc1-4a67-addd-e75461d12742">
 
 ## Introduction
 This blog post is about figuring out the inverse kinematics behind finding the angles required for each of the 6 axes of a 6 axis robotic arm. 
