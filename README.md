@@ -38,7 +38,7 @@ To get the yaw value of axis one, since the yaw is transferred to axes 2 and 3, 
 
 <img width="400" alt="IMG_0333" src="https://github.com/user-attachments/assets/c434d048-3ed1-4642-a285-061ced7c8130">
 
-To get the members of the robotic arm to their correct positions, we need to get the angles ⍺ & β  from the image below. Finding the angles directly allows us to [directly find the coordinates of B](https://docs.google.com/document/u/0/d/1Np-hgKrQbotTc_-zsZkRBA5jJFR4E49Fd7QHk0cFpcA/edit), saving a lot of time and effort.
+To get the members of the robotic arm to their correct positions, we need to get the angles ⍺ & β  from the image below. Finding the angles directly allows us to [avoid directly finding the coordinates of B](https://docs.google.com/document/u/0/d/1Np-hgKrQbotTc_-zsZkRBA5jJFR4E49Fd7QHk0cFpcA/edit), saving a lot of time and effort.
 
 <img width="400" alt="IMG_0333" src="https://github.com/user-attachments/assets/6dff0d6b-53a1-4fbe-baf7-a931dbc04f85">
 
