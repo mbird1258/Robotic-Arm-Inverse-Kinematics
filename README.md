@@ -26,7 +26,7 @@ To find the radius of the circle and the position of the circle, we first find o
 
 To find the exact point, we can make use of the desired yaw of the final point and find the corresponding point on the circle as shown below. 
 
-<img width="400" alt="IMG_0333" src="https://github.com/user-attachments/assets/6526a48d-3608-48c6-8ce7-181ce740d43c">
+<img width="800" alt="IMG_0333" src="https://github.com/user-attachments/assets/6526a48d-3608-48c6-8ce7-181ce740d43c">
 
 We repeat the same process to get to the point at axis 4, except this time we use the yaw of the first axis. 
 
