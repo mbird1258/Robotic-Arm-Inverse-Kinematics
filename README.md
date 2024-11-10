@@ -1,6 +1,7 @@
 Robotic-Arm-Inverse-Kinematics
 ==============================
 Geogebra demo: [https://www.geogebra.org/calculator/vapprkva](https://www.geogebra.org/calculator/vapprkva)
+
 Blog post: [https://matthew-bird.com/blogs/Robotic-Arm-Inverse-Kinematics.html](https://matthew-bird.com/blogs/Robotic-Arm-Inverse-Kinematics.html)
 
 <img width="400" alt="IMG_0333" src="https://github.com/user-attachments/assets/c1c4891e-bdc1-4a67-addd-e75461d12742">
